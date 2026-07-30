@@ -32,6 +32,7 @@ Then, your program must include gfx.h (i.e., `#include "gfx/gfx.h"`) and be link
 For an example, check the `example.c` file and compile it with the `Makefile` which contains the compile command, both within this project root directory.
 
 The graphic window should display something like this:
+
 <img width="610" height="518" alt="Screenshot_20260730_193202" src="https://github.com/user-attachments/assets/9178b006-7102-42a1-8326-37886942a145" />
 
 ## Disclaimer
