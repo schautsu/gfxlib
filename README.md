@@ -1,0 +1,39 @@
+## Introduction
+
+The gfxlib library provides basic drawing and writing functions on SDL3 graphical programs.
+
+As it is a very limited library, it is intended to be used for learning/academic purposes only.
+
+## Installation
+
+### Unix/Linux
+
+Before using this library, you must install the following libraries:
+- `make`
+- `SDL3`
+- `SDL3_ttf`
+
+When done, within the `gfx` directory, type on your terminal:
+```
+make
+```
+This must create `gfx.c` and `gfx.o` files, with no errors.
+
+## Usage
+
+As a rule of thumb, all GFX library files must be at YOUR-PROGRAM-DIR/gfx directory.
+
+Then, your program must include gfx.h (e.g., `#include "gfx/gfx.h"`, or other relative path if not placed as above-mentioned) and be linked against `-Lgfx -lgfx -lSDL3 -lSDL3_ttf` flags.
+
+## Disclaimer
+
+This library is based on the 2013 work of Fabricio Sergio de Paula <fabricio.paula@gmail.com>.
+
+His GFX library was used for some college works (graphical representation of recursion, memory management, linked lists etc.) and relied on SDL version 1.2, and after some time it became obsolete.
+
+As I wanted to see my works alive again (sort of "surviving over time"), this library was born.
+
+## Contact and License
+E-mail  Vinicius "schautsu" Schautz at <vinicius.schautz@hotmail.com> to contact the author.
+
+This library is licensed under the zlib License, see the file LICENSE for details.
