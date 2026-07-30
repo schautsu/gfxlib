@@ -17,7 +17,7 @@ When done, within the `gfx` directory, type on your terminal:
 ```
 make
 ```
-This must create `gfx.c` and `gfx.o` files, with no errors.
+This must create `gfx.o` and `libgfx.a` files, with no errors.
 
 ## Usage
 
