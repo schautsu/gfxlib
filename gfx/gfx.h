@@ -57,7 +57,7 @@ bool gfx_get_event(SDL_Event *event);
  * ```c
  * while (gfx_window_opened()) {
  *     
- *     // update game state, draw the current frame
+ *     // update program state, draw the current frame
  * 
  * }
  * gfx_quit(); // effectively close the window
