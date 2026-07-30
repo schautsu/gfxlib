@@ -21,9 +21,13 @@ This must create `gfx.c` and `gfx.o` files, with no errors.
 
 ## Usage
 
+All the files you need are the ones within the `gfx` directory of this project.
+
 As a rule of thumb, all GFX library files must be at YOUR-PROGRAM-DIR/gfx directory.
 
 Then, your program must include gfx.h (e.g., `#include "gfx/gfx.h"`, or other relative path if not placed as above-mentioned) and be linked against `-Lgfx -lgfx -lSDL3 -lSDL3_ttf` flags.
+
+For an example, check the `example.c` file and compile it with the `Makefile` which contains the compile command, both within this project root directory.
 
 ## Disclaimer
 
