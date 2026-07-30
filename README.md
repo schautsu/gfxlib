@@ -35,7 +35,7 @@ This library is based on the 2013 work of Fabricio Sergio de Paula <fabricio.pau
 
 His GFX library was used for some college works (graphical representation of recursion, memory management, linked lists etc.) and relied on SDL version 1.2, and after some time it became obsolete.
 
-As I wanted to see my works alive again (sort of "surviving over time"), this library was born.
+As I wanted to see my works alive again (sort of "surviving over the time"), this library was born.
 
 ## Contact and License
 E-mail  Vinicius "schautsu" Schautz at <vinicius.schautz@hotmail.com> to contact the author.
