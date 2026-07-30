@@ -9,7 +9,7 @@
  *
  * Use: Before using this library, you must install SDL3 and SDL3_ttf libraries.
  * After that, make sure all GFX library files are at YOUR-PROGRAM-DIR/gfx directory.
- * Then, your program must include gfx.h (e.g. "gfx/gfx.h") and be linked against
+ * Then, your program must include gfx.h (i.e., #include "gfx/gfx.h") and be linked against
  * -Lgfx -lgfx -lSDL3 -lSDL3_ttf flags.
  */
 #ifndef _GFX_H_
