@@ -17,7 +17,7 @@ When done, within the `gfx` directory, type on your terminal:
 ```
 make
 ```
-This runs the commands inside a `Makefile` that create`gfx.o` and `libgfx.a` files as a result.
+This runs the commands inside a `Makefile` that create `gfx.o` and `libgfx.a` files as a result.
 
 ## Usage
 
