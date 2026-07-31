@@ -2,7 +2,7 @@
 
 The gfxlib library provides basic drawing and writing functions on SDL3 graphical programs.
 
-As it is a very limited library, it is intended to be used for learning/academic purposes only.
+As it is a small library, it is intended to be used for learning/academic purposes only.
 
 ## Installation
 
@@ -41,7 +41,7 @@ This library is based on the 2013 work of Fabricio Sergio de Paula <fabricio.pau
 
 His GFX library was used for some college works (graphical presentation of recursion, memory management, linked lists etc.) and relied on SDL version 1.2, and after some time it became obsolete.
 
-As I wanted to see my works alive again (sort of "surviving over the time"), this library was born.
+Ultimately, this library was created to preserve my past work and keep it functional over time.
 
 ## Contact and License
 E-mail  Vinicius "schautsu" Schautz at <vinicius.schautz@hotmail.com> to contact the author.
