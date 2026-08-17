@@ -33,7 +33,7 @@ For an example, check the `example.c` file and compile it with the `Makefile` wh
 
 The graphic window should display something like this:
 
-<img width="610" height="518" alt="GFX program screenshot" src="https://github.com/user-attachments/assets/9178b006-7102-42a1-8326-37886942a145" />
+<img width="610" height="518" alt="Program example.c screenshot" src="https://github.com/user-attachments/assets/c9fd65de-0e16-4374-add1-0063a90dd7a7" />
 
 ## Disclaimer
 
