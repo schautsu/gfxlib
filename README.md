@@ -44,6 +44,6 @@ The graphic window should display something like this:
 <img width="488" height="414" alt="Program example.c screenshot" src="https://github.com/user-attachments/assets/c9fd65de-0e16-4374-add1-0063a90dd7a7" />
 
 ## Contact and License
-E-mail Fabricio Sergio de Paula at <fabricio.paula@gmail.com> to contact the author.
+E-mail Fabricio Sergio de Paula at (<fabricio.paula@gmail.com>) to contact the author.
 
 This library is licensed under the zlib License, see the file LICENSE for details.
