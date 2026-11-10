@@ -1,6 +1,6 @@
 ## Disclaimer
 
-This library is a 2013 work by Fabricio Sergio de Paula <fabricio.paula@gmail.com> using SDL version 1.2.
+This library is a fork from the work of Fabricio Sergio de Paula <fabricio.paula@gmail.com> using SDL version 1.2 dated 2013.
 
 Ported to SDL3 by Vinicius "schautsu" Schautz <vinicius.schautz@hotmail.com> in 2026.
 
